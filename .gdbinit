@@ -1,0 +1,2 @@
+la src
+foc cmd
